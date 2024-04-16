@@ -147,7 +147,7 @@ httpd.serve_forever()
 ## OUTPUT:
 ![Screenshot 2024-04-16 at 11 49 33 PM](https://github.com/Harshinisrini1910/simplewebserver/assets/161415847/99142d8f-91a4-4875-b764-f93d82e2751a)
 
-![Screenshot 2024-04-16 at 11 49 33 PM](https://github.com/Harshinisrini1910/simplewebserver/assets/161415847/d2cd006c-d7e2-49d6-a9a3-58579c115b9c)
+![Screenshot 2024-04-16 at 11 49 09 PM](https://github.com/Harshinisrini1910/simplewebserver/assets/161415847/7fc64c8a-6665-4206-a2dd-ca5f36d2d777)
 
 
 ## RESULT:
