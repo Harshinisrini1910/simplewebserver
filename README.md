@@ -80,6 +80,7 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ```
+```
 <!doctype html>
 <html>
 <head>
@@ -126,8 +127,8 @@ httpd.serve_forever()
 
 </body>
 </html>
-'''
-
+```
+```
 class MyServer(BaseHTTPRequestHandler):
     def do_GET(self):
         print("Get request received...")
